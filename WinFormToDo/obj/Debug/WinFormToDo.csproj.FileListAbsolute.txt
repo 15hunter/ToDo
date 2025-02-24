@@ -1,0 +1,10 @@
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\bin\Debug\WinFormToDo.exe.config
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\bin\Debug\WinFormToDo.exe
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\bin\Debug\WinFormToDo.pdb
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.csproj.AssemblyReference.cache
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.txtAdd.resources
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.Properties.Resources.resources
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.csproj.GenerateResource.cache
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.exe
+C:\Users\Hunter\OneDrive\Documents\IT 111\WinFormToDo\WinFormToDo\obj\Debug\WinFormToDo.pdb
